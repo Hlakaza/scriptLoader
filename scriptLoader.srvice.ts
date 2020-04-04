@@ -1,7 +1,5 @@
 import { Injectable } from '@angular/core';
-
 declare let document: any;
-declare let $: any;
 
 interface Script {
   src: string;
